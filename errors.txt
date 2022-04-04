@@ -1,0 +1,6 @@
+Code 02 : Symbol doesn't exist in symbol table.
+Code 03 : Check expression. LastOperand and LastOperator.
+Code 04 : Incorrect Operator. Operator length greater than 1
+Code 05 : Check the vailidity of expression. Neither relative nor absolute. (paircount neither 1 nor 0)
+Code 06 : Redefining the symbol
+Code 07 : Only BYTE of form integer(X'05') or characters(C'EOF') supported.

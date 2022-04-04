@@ -510,7 +510,7 @@ void writeEndRecord(bool write=true){
 
 void pass2(){
   string tempBuffer;
-  intermediateFile.open("intermediate_"+fileName);//begin
+  intermediateFile.open("intermediatePass1_"+fileName);//begin
   if(!intermediateFile){
     cout << "Unable to open file: intermediate_"<<fileName<<endl;
     exit(1);

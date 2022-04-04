@@ -1,6 +1,6 @@
 Line	Address	BlockNumber	Label	OPCODE	OPERAND	Comment
 5	00000	0	SUM	START	0	
-10	00000	0	FIRST	LDX	#0	.Load 0 in register X
+10	00000	0	FIRST	LDX	#0	
 15	00003	0		LDA	#0	
 20	00006	0		+LDB	#0	
 25	0000A	0		+LDB	#TABLE2	
